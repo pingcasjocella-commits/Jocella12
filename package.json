@@ -1,0 +1,12 @@
+{
+  "name": "taskflow-paas-system",
+  "version": "1.0.0",
+  "description": "Cloud PaaS Task Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
